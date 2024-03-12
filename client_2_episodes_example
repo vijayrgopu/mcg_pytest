@@ -1,0 +1,47 @@
+{
+	"patient": {
+		"mrn": "7b76b075-0333-47a1-9ac1-2a5d4f03b1ef",
+		"name": "Kathleen Schmitt",
+		"dob": "2010-01-25",
+		"ssn": "278-79-4269",
+		"address": "77548 Chambers Glen Apt. 646\nThomasmouth, IN 92608",
+		"insurance": "Thought."
+	},
+	"discharge_date_time": "2023-11-03 06:07:40",
+	"notes": [
+		{
+			"note_id": "610fdcb7-1aea-4ca8-8f57-99585cad4897",
+			"episode_id": "e316422b-c2ee-4501-8245-59b193d006da",
+			"note_time": "2023-09-28 22:03:05",
+			"clinical_text": "Scientist several military financial million line.",
+			"physician": "Cody Cole"
+		},
+		{
+			"note_id": "a812dce9-dcda-4ea7-a935-0abf9391dff4",
+			"episode_id": "e316422b-c2ee-4501-8245-59b193d006da",
+			"note_time": "2023-10-26 22:55:40",
+			"clinical_text": "Capital series shake evidence bit her role all.",
+			"physician": "Christy Perry"
+		},
+		{
+			"note_id": "1fdee45b-a961-4cad-a13c-2201c38f1773",
+			"episode_id": "e316422b-c2ee-4501-8245-59b193d006da",
+			"note_time": "2023-10-05 21:42:54",
+			"clinical_text": "Generation too data east bill.",
+			"physician": "James Bowman"
+		},
+		{
+			"note_id": "bebd9e77-7f70-4975-bde5-f5e8e8ef39c7",
+			"episode_id": "e316422b-c2ee-4501-8245-59b193d006da",
+			"note_time": "2023-08-25 03:05:56",
+			"clinical_text": "Appear friend work.",
+			"physician": "Valerie Smith"
+		}
+	],
+	"episode_id": "e316422b-c2ee-4501-8245-59b193d006da",
+	"mrn": "7b76b075-0333-47a1-9ac1-2a5d4f03b1ef",
+	"admit_time": "2023-08-18 14:08:39",
+	"admitting_diagnosis": "Car blood growth add street moment let.",
+	"discharge_diagnosis": "Conference treatment think customer firm buy.",
+	"final_status": "To this."
+}
