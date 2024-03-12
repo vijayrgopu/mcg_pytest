@@ -1,0 +1,25 @@
+{
+	"patient_id": "d5d3ae60-e932-4377-9455-2fb78002a0d5",
+	"name": "Michelle Sanchez",
+	"dob": "1910-09-07",
+	"ssn": "041-30-9056",
+	"address": "5464 Mendoza Fords Suite 473\nHartmanland, AZ 92386",
+	"episodes": [
+		{
+			"patient_id": "d5d3ae60-e932-4377-9455-2fb78002a0d5",
+			"episode_id": "de1dcf82-dc45-421e-877b-0a5bd7ea447a",
+			"admit_date_time": "2023-02-24 15:26:52",
+			"discharge_date_time": "2024-01-10 16:04:08",
+			"admitting_diagnosis": "Describe half audience theory hotel nation.",
+			"discharge_diagnosis": "Long child body have water value mean be.",
+			"notes": [
+				{
+					"note_id": "51a15151-7062-44ce-bb5f-62a48e3face4",
+					"episode_id": "de1dcf82-dc45-421e-877b-0a5bd7ea447a",
+					"note_date_time": "2023-09-02 19:35:43",
+					"text": "Rest institution bring eat social TV rich performance."
+				}
+			]
+		}
+	]
+}
